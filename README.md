@@ -22,7 +22,7 @@ Brainwave - Clone of Modern UI/UX website, developed using React.js and Tailwind
 
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
-and many more, including code architecture and reusability
+and many more, including code architecture and reusability.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
